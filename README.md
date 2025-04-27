@@ -10,3 +10,12 @@ Le contournement de mesures de sécurité peut être interdit par les CGU de cer
 1. Clonez le repo
 2. `pip install -r requirements.txt`
 3. Modifiez `main.py` avec l'URL et le sélecteur cible, puis lancez :
+
+
+## Auteur
+
+Projet réalisé par **[Claude Ndanda]**  
+
+## Licence
+
+MIT
